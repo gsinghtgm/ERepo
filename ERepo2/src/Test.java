@@ -1,4 +1,4 @@
 
 public class Test {
-String test="repo2";
+	String test="repo2";
 }
